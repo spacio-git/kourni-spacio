@@ -1,0 +1,11 @@
+Data/Historical/*
+Data/Dim/*
+Data/Recent/*
+Data/Embeddings*
+Others/Logs/*
+E-Commerce/Stock_Laudus_to_Shopify/cron_logs.txt
+Libraries/klaviyo_lib/creds/*
+E-Commerce/Stock_Laudus_to_Shopify/shopify/creds/*
+Libraries/shopify_lib/creds/*
+Libraries/openai_lib/.env
+Libraries/sheets_lib/creds/*
